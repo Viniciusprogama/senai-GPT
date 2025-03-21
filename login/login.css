@@ -19,6 +19,11 @@
 
     }  */
 
+    .paige-contener{
+
+        display: flex;
+    }
+
  h1 {
 
     font-size: 76px;
@@ -57,10 +62,18 @@
          flex-direction: column;/*deixa em colunas*/
         align-items: center;/*horizontal*/
         justify-content: center;/*horizontal*/
+        width: 50vw; /*largura*/
     }
         
     .logo{
 
         height: 60px;
     }
-        
+    .roboimage {
+
+        background-image: url(../assents/imgs/Sidebar.png);
+        background-size: cover;
+
+        width: 50vw;
+        height: 100vh;
+    }
