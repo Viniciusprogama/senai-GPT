@@ -10,7 +10,7 @@
 
 
 
-    margin-top: 95px;
+    margin-top:95px;
     display: flex;
     font-size: 10px;
     flex-direction: column;
@@ -28,14 +28,16 @@
 
 .btn {
 
-    background-color: black;
+
     position: relative;
-    top: -210px;
+    top: -120px;
     width: 140px;
     padding: 3px;
-    margin-left: 30px;
+    margin-left: -40px;
     border-radius: 8px;
+    background-color: black;
     color: white;
+    
 
 }
 
@@ -107,4 +109,27 @@ h2{
 
     font-size: 20px;
     
+}
+
+.exemplosdois {
+
+
+    margin-left: 850px;
+    margin-top: -165px;
+    gap: 16px;
+    width: 300px
+    ;
+    
+
+}
+
+.exemplostres{
+    margin-left: 1200px;
+    margin-top: -142px;
+    gap: 16px;
+    width: 320px
+    ;
+
+
+
 }
