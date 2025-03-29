@@ -21,7 +21,8 @@
     align-items: center;
     text-align: left;
     justify-content: center;
-    width: 13vw;
+    width: 10vw;
+    
     
 }
 
@@ -33,7 +34,7 @@
     top: -120px;
     width: 140px;
     padding: 3px;
-    margin-left: -40px;
+    margin-left: -30px;
     border-radius: 8px;
     background-color: black;
     color: white;
@@ -53,7 +54,7 @@
     align-items: normal;
     gap: 10px;
     /*espacamento entre as colunas*/
-    width: 13vw;
+    width: 10vw;
     display: flex;
     align-items: center;
     text-align: center;
@@ -74,62 +75,140 @@
 }
 
 
-.borda {}
+.borda {
+
+
+    margin-left: 20px;
+    border-right: 5px solid black;
+    background-color: white;
+    width: 210px;
+    margin-top: 1%;
+    
+
+}
 
 .meio {
 
-    margin-left: 760px;
+    margin-left: 730px;
     font-size: 30px;
     position: relative;
-    top: 300px;
+    top: 260px;
+    height: 120px;
+    margin-top: -25px;
 
 }
 
 
 .exemplos{
  
-margin-left: 550px;
-margin-top: -400px;
-gap: 16px;
-width: 300px
-;
+margin-left: 540px;
+margin-top: -380px;
+width: 300px;
+
+
+
+}   
+
+.exemplos p{
+
+
+margin-left: -40px;
+margin-bottom: 10px;
+font-size: 20px;
 
 
 }
 
-h1{
-
-
-margin-left: 70px;
-
-}
-
-h2{
+.exemplosdois p{
 
 
     font-size: 20px;
-    
+
 }
 
-.exemplosdois {
+.exemplosdois  {
 
 
     margin-left: 850px;
-    margin-top: -165px;
-    gap: 16px;
+    margin-top: -205px;
     width: 300px
+
     ;
     
 
 }
+.exemplosdois p {
+
+    margin-bottom: 10px;
+}
+
+
 
 .exemplostres{
     margin-left: 1200px;
-    margin-top: -142px;
-    gap: 16px;
+    margin-top: -199px;
     width: 320px
     ;
 
 
 
+}
+
+
+
+.exemplostres p{
+
+
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+
+.titulos-um{
+
+
+    margin-left: 50px;
+    
+}
+
+.digitacao{
+
+
+margin-left: 640px;
+margin-top: 220px;
+background-color: yellow;;
+height: 40px;
+width: 870px;
+border-radius: 8px;
+}
+
+
+
+.escreva {
+
+    color: red;
+    color: #F7F9FB;;
+    margin-left: 65px;
+    height: 40px;
+}
+
+
+    
+.foto-escreva {
+
+
+margin-left: 640px;
+margin-top: -33px;
+
+}
+
+.foto-baixo-escreva-direita {
+
+
+
+    margin-left: 770px;
+    height: 20px;
+    height: 20px;
+    color: black;
+    
 }
