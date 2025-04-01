@@ -19,13 +19,13 @@
 
 
     position: relative;
-    top: 191px;
+    top: 196px;
     width: 195px;
     margin-left: 3px;
     border-radius: 8px;
     background-color: black;
     color: white;
-    height: 30px;
+    height: 28px;
     
 
 }
@@ -281,7 +281,7 @@ margin-top: -32px;
     margin-left: 14px;
     height: 18px;
     position: relative;
-    top: -315px;
+    top: -352px;
 }
 
 .img-tela2{
@@ -289,19 +289,19 @@ margin-top: -32px;
     margin-left: -22px;
     height: 18px;
     position: relative;
-    top: -285px;
+    top: -322px;
 }
 .img-tela3{
     margin-left: -20px;
     height: 17px;
     position: relative;
-    top: -255px;
+    top: -293px;
 }
 
 .img-tela-baixo1{
 
     margin-left: 15px;
-    margin-top: 407px;
+    margin-top: 367px;
     height: 17px;
 }
 
