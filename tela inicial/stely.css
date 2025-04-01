@@ -10,18 +10,18 @@
 
 
     margin-left: 10px;
-    border-right: 5px solid black;
+    border-right: 2px solid whitesmoke;
     width: 230px;
-    margin-top: -150px;
+    margin-top: -170px;
 }
 
 .btn {
 
 
     position: relative;
-    top: 180px;
-    width: 165px;
-    margin-left: 10px;
+    top: 191px;
+    width: 195px;
+    margin-left: 3px;
     border-radius: 8px;
     background-color: black;
     color: white;
@@ -34,8 +34,8 @@
 
 
 
-    margin-top:229px;
-    height: 100px;
+    margin-top:239px;
+    height: 99px;
     display: flex;
     font-size: 10px;
     flex-direction: column;
@@ -115,13 +115,25 @@ width: 300px;
 
 }   
 
-.exemplos p{
+.titulos-um {
+
+
+    position: relative;
+    top: -60px;
+    font-size: 20px;
+    margin-left: 62px;
+    
+    }
+
+
+.paragrafo1{
 
 
 margin-left: -40px;
-margin-bottom: 20px;
+margin-bottom: 27px;
 font-size: 20px;
-
+position: relative;
+top: -22px;
 }
 
 
@@ -131,29 +143,32 @@ font-size: 20px;
 
 
     margin-left: 860px;
-    margin-top: -235px;
+    margin-top: -35px;
     width: 300px;
-    
+
 
 }
 
-.titulos-dois {
+
+    .titulos-dois{
 
 
-    position: relative;
-    top: -45px;
-    font-size: 20px;
-    margin-left: 60px;
-    
-    }
+        margin-left: 79px;
+        position: relative;
+        top : -270px;
+        font-size: 20px;
+    }       
 
-.exemplosdois p{
+.paragrafo2{
 
 
     font-size: 20px;
     margin-bottom: 30px;
-    margin-bottom: 10px;
-    
+    margin-bottom: 15px;;
+    padding: 10px;
+    margin-top: -5px;
+    position: relative;
+    top: -233px
 }
 
 
@@ -165,19 +180,18 @@ font-size: 20px;
 
 
 
-
 .exemplostres{
     margin-left: 1200px;
-    margin-top: -195px;
+    margin-top: -444px;
     width: 320px;
 }
 .titulos-tres {
 
     position: relative;
-    top: -20px;
+    top: -57px;
     margin-left: 80px;
     font-size: 20px;
-
+    
 
 
 }
@@ -187,25 +201,19 @@ font-size: 20px;
 
     font-size: 20px;
     margin-bottom: 20px;
-}
-
-
-
-.titulos-um{
-
-
-    margin-left: 80px;
     position: relative;
-    top : -28px;
-    font-size: 20px;
-    
+    top: -19px;
 }
+
+
+
+
 
 .digitacao{
 
 
 margin-left: 640px;
-margin-top: 220px;
+margin-top: 185px;
 background-color: #F7F9FB;;
 height: 40px;
 width: 870px;
@@ -231,7 +239,7 @@ border-radius: 8px;
 
 
 margin-left: 640px;
-margin-top: -33px;
+margin-top: -32px;
 
 }
 
@@ -259,40 +267,75 @@ margin-top: -33px;
 .imagem-meio-dois {
 
     margin-left: 970px;
-    margin-top: -31px;
+    margin-top: -34px;
 }
 
 .imagem-meio-tres {
     margin-left: 1310px;
-    margin-top: -34px;
+    margin-top: -33px;
 }
 
 .img-tela1{
 
 
-    margin-left: 15px;
+    margin-left: 14px;
     height: 18px;
     position: relative;
-    top: -371px;
+    top: -315px;
 }
 
 .img-tela2{
 
     margin-left: -22px;
-    height: 17px;
+    height: 18px;
     position: relative;
-    top: -341px;
+    top: -285px;
 }
 .img-tela3{
-    margin-left: -22px;
+    margin-left: -20px;
     height: 17px;
     position: relative;
-    top: -312px;
+    top: -255px;
 }
 
 .img-tela-baixo1{
 
     margin-left: 15px;
-    margin-top: 348px;
+    margin-top: 407px;
+    height: 17px;
+}
+
+.img-tela-baixo2 {
+
+    position: relative;
+    top: 36px;
+    margin-left: -23px;
+    height: 20px;
+
+
+}
+
+.img-tela-baixo3{
+
+
+    position: relative;
+    top: 70px;
+    margin-left: -23px;
+    height: 17px;
+}
+
+.img-tela-baixo4{
+    
+    position: relative;
+    top: 104px;
+    margin-left: -20px;
+    height: 17px;
+}
+
+.img-tela-baixo5{
+
+    position: relative;
+    top: 139px;
+    margin-left: -20px;
     height: 17px;
 }
