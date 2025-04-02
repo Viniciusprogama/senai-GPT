@@ -12,14 +12,14 @@
     margin-left: 10px;
     border-right: 2px solid whitesmoke;
     width: 230px;
-    margin-top: -170px;
+    margin-top: -198px;
 }
 
 .btn {
 
 
     position: relative;
-    top: 196px;
+    top: 220px;
     width: 195px;
     margin-left: 3px;
     border-radius: 8px;
@@ -35,7 +35,7 @@
 
 
     margin-top:239px;
-    height: 99px;
+    height: 170px;
     display: flex;
     font-size: 10px;
     flex-direction: column;
@@ -57,7 +57,7 @@
 
 
 
-    margin-top: 683px;
+    margin-top: 613px;
     padding: -10px;
     display: flex;
     font-size: 10px;
@@ -96,7 +96,7 @@
     margin-left: 730px;
     font-size: 30px;
     position: relative;
-    top: 260px;
+    top: 240px;
     height: 120px;
     margin-top: -25px;
     max-height: 1px;
@@ -119,12 +119,11 @@ width: 300px;
 
 
     position: relative;
-    top: -60px;
+    top: -65px;
     font-size: 20px;
     margin-left: 62px;
     
     }
-
 
 .paragrafo1{
 
@@ -155,7 +154,7 @@ top: -22px;
 
         margin-left: 79px;
         position: relative;
-        top : -270px;
+        top : -271px;
         font-size: 20px;
     }       
 
@@ -188,7 +187,7 @@ top: -22px;
 .titulos-tres {
 
     position: relative;
-    top: -57px;
+    top: -61px;
     margin-left: 80px;
     font-size: 20px;
     
@@ -213,11 +212,8 @@ top: -22px;
 
 
 margin-left: 640px;
-margin-top: 185px;
-background-color: #F7F9FB;;
-height: 40px;
-width: 870px;
-border-radius: 8px;
+margin-top: 185px;  
+
 
 }
 
@@ -226,10 +222,12 @@ border-radius: 8px;
 
 .escreva {
 
-    background-color: #F7F9FB;
-    color: hsla(0, 0%, 0%, 0.3);
-    margin-left: 65px;
+    
     height: 40px;
+    width: 780px;
+    background-color: white  ;
+    border-radius: 16px;    
+    margin-left: 59px;
     border: #F7F9FB;
 }
 
@@ -238,7 +236,7 @@ border-radius: 8px;
 .foto-escreva {
 
 
-margin-left: 640px;
+margin-left: 630px;
 margin-top: -32px;
 
 }
@@ -249,30 +247,28 @@ margin-top: -32px;
 
     margin-left: 770px;
     height: 20px;
-    height: 20px;
     color: black;
+    position: relative;
+    top: -5px;
     
 }
 
 
 .imagem-meio {
 
-
-
-
     margin-left: 625px;
-    margin-top: -525px;
+    margin-top: -520px;
 }
 
 .imagem-meio-dois {
 
     margin-left: 970px;
-    margin-top: -34px;
+    margin-top: -32px;
 }
 
 .imagem-meio-tres {
     margin-left: 1310px;
-    margin-top: -33px;
+    margin-top: -36px;
 }
 
 .img-tela1{
@@ -281,7 +277,7 @@ margin-top: -32px;
     margin-left: 14px;
     height: 18px;
     position: relative;
-    top: -352px;
+    top: -318px;
 }
 
 .img-tela2{
@@ -289,13 +285,13 @@ margin-top: -32px;
     margin-left: -22px;
     height: 18px;
     position: relative;
-    top: -322px;
+    top: -290px;
 }
 .img-tela3{
-    margin-left: -20px;
-    height: 17px;
+    margin-left: -22px;
+    height: 18px;
     position: relative;
-    top: -293px;
+    top: -269px;
 }
 
 .img-tela-baixo1{
